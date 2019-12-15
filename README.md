@@ -1,4 +1,4 @@
-# Fraud_detection-Kaggle-competition
+# Enron Fraud detection 
 Getting 91% accurcy
 
 Enron Fraud Dataset 安隆公司詐欺案資料集
